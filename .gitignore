@@ -1,5 +1,13 @@
-*.json
+# Dependencies
 node_modules
+
+# Database
 *.sqlite
 db.*
+
+# Environment
 .env
+.env.*
+
+# Build
+dist
